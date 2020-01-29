@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # watch-us-build-trello
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# build-trello
+a drag and drop application to handle tasks
+>>>>>>> 9b5a44060990d97010ea687f6cc53ec1e1c15e4e
